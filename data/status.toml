@@ -1,0 +1,13 @@
+complete = "0/24"
+
+[socks]
+# [socks.1]
+# name = "Test"
+# date = "Today"
+# link = "/sock1"
+
+# [socks.10]
+# name = "Test 10"
+# date = "Today 10"
+# link = "/sock1-10"
+

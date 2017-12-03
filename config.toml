@@ -54,6 +54,7 @@ theme = "hugo-initio"
     footer = true
     sharethis = false
     network = ""
+
 [[params.social]]
     title = "email"
     url = "mailto:geoff@geoffholden.com"
@@ -61,3 +62,12 @@ theme = "hugo-initio"
     footer = false
     sharethis = true
     network = "email"
+
+[[params.social]]
+    title = "ravelry"
+    url = "https://www.ravelry.com/people/WifeMadeMeDoIt"
+    icon = "fa-ravelry"
+    footer = true
+    sharethis = false
+    network = ""
+
