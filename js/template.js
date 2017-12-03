@@ -1,4 +1,5 @@
 jQuery(document).ready(function($) {
+    return;
 
 	var my_nav = $('.navbar-sticky'); 
 	// grab the initial top offset of the navigation 

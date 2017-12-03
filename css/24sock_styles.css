@@ -1,0 +1,8 @@
+.widget.status p {
+    margin-bottom: 1em;
+}
+
+.widget.status ul {
+    list-style: square;
+    padding-left: 2em;
+}

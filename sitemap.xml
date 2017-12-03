@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://24sockproject.me/this_project/</loc>
+    <lastmod>2017-12-02T21:20:51-03:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://24sockproject.me/categories/</loc>
     <priority>0</priority>
   </url>
@@ -14,6 +19,7 @@
   
   <url>
     <loc>http://24sockproject.me/</loc>
+    <lastmod>2017-12-02T21:20:51-03:30</lastmod>
     <priority>0</priority>
   </url>
   
