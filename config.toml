@@ -39,7 +39,7 @@ theme = "hugo-initio"
 
 [params.sharethis]
     property = "5a2318501b1181001358773e"
-    custom = true
+    custom = false
 
 # [params.google.analytics]
 #     trackerID = "GA-000000000-0"
