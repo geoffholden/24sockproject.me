@@ -21,14 +21,18 @@ theme = "hugo-initio"
     showDownload = false
     showClients = false
 
-# [[menu.main]]
-#     name = "home"
-#     url = "/"
-#     weight = 1
-# [[menu.main]]
-#     name = "blog"
-#     url = "/post/"
-#     weight = 5
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "about"
+    url = "/page/about/"
+    weight = 2
+[[menu.main]]
+    name = "rules"
+    url = "/page/rules/"
+    weight = 3
 
 [params.disqus]
     site = "24-sock-project.disqus.com"
@@ -71,3 +75,10 @@ theme = "hugo-initio"
     sharethis = false
     network = ""
 
+[[params.social]]
+    title = "rss"
+    url = "/post/index.xml"
+    icon = "fa-rss"
+    footer = true
+    sharethis = false
+    network = ""
