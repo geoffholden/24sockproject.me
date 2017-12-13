@@ -6,3 +6,20 @@
     list-style: square;
     padding-left: 2em;
 }
+
+table {
+    border: 1px solid #aaa;
+    width: 100%;
+}
+
+thead tr {
+    background-color: transparent !important;
+}
+
+tr:nth-of-type(odd) {
+    background-color: #eee;
+}
+
+td + td {
+    padding-left: 1em;
+}
