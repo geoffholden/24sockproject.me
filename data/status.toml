@@ -1,10 +1,10 @@
-complete = "1/24"
+complete = "2/24"
 
 [socks]
-# [socks.1]
-# name = "Test"
-# date = "Today"
-# link = "/sock1"
+[socks.1]
+name = "Basket Rib Socks"
+date = "Jan 14, 2018"
+link = "/post/basket_rib_socks/"
 
 # [socks.10]
 # name = "Test 10"
