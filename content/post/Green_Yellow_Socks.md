@@ -18,5 +18,5 @@ The second pair have been completed. This uses up the last of the Drops Fabel th
 | Pattern      | [Mina's Vanilla Sock Recipe](https://www.ravelry.com/patterns/library/minas-vanilla-sock-recipe), with high-instep option |
 | Size         | 64 stitch                                                                                                                 |
 | Ribbing      | 2×2 ribbing for 16 rounds (1 1/2")                                                                                        |
-| Leg Length   | 9×8 row repeats (72 rounds (6 1/4") (not including ribbing)                                                               |
-| Foot Length  | 9×8 row repeats (72 rounds (6 1/4") (not including toe)                                                                   |
+| Leg Length   | 72 rounds (6 1/4") (not including ribbing)                                                                                |
+| Foot Length  | 72 rounds (6 1/4") (not including toe)                                                                                    |
