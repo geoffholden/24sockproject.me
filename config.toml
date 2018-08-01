@@ -3,6 +3,7 @@ languageCode = "en-ca"
 title = "The 24 Sock Project"
 theme = "hugo-initio"
 # publishDir = "docs"
+paginate = 5
 
 [params]
     name = "The 24 Sock Project"
