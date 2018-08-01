@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://24sockproject.me/post/cotton_socks/</loc>
+    <lastmod>2018-08-01T14:46:49-02:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://24sockproject.me/post/cinnamon/</loc>
     <lastmod>2018-06-28T11:38:06-02:30</lastmod>
   </url>
@@ -80,7 +85,7 @@
   
   <url>
     <loc>http://24sockproject.me/post/</loc>
-    <lastmod>2018-06-28T11:38:06-02:30</lastmod>
+    <lastmod>2018-08-01T14:46:49-02:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,7 +96,7 @@
   
   <url>
     <loc>http://24sockproject.me/</loc>
-    <lastmod>2018-06-28T11:38:06-02:30</lastmod>
+    <lastmod>2018-08-01T14:46:49-02:30</lastmod>
     <priority>0</priority>
   </url>
   
