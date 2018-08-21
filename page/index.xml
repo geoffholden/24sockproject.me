@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on The 24 Sock Project</title>
-    <link>http://24sockproject.me/page/</link>
+    <link>https://24sockproject.me/page/</link>
     <description>Recent content in Pages on The 24 Sock Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Mon, 04 Dec 2017 10:50:59 -0330</lastBuildDate>
     
-	<atom:link href="http://24sockproject.me/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://24sockproject.me/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project Status</title>
-      <link>http://24sockproject.me/page/status/</link>
+      <link>https://24sockproject.me/page/status/</link>
       <pubDate>Mon, 04 Dec 2017 10:50:59 -0330</pubDate>
       
-      <guid>http://24sockproject.me/page/status/</guid>
+      <guid>https://24sockproject.me/page/status/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://24sockproject.me/page/about/</link>
+      <link>https://24sockproject.me/page/about/</link>
       <pubDate>Mon, 04 Dec 2017 09:17:07 -0330</pubDate>
       
-      <guid>http://24sockproject.me/page/about/</guid>
+      <guid>https://24sockproject.me/page/about/</guid>
       <description>By day, I&amp;rsquo;m an entrepreneur, software developer, and electronics designer. By night, I&amp;rsquo;m a woodworker, knitter, and crocheter.
 I&amp;rsquo;ve been knitting since October 2016 (and crocheting since June 2016), and have knit six pairs of socks before starting this project.
 The goal of this site it to document my progress (and keep me honest) on knitting twenty-four socks (ideally twelve pairs) in 2018.</description>
@@ -33,10 +33,10 @@ The goal of this site it to document my progress (and keep me honest) on knittin
     
     <item>
       <title>Project Rules</title>
-      <link>http://24sockproject.me/page/rules/</link>
+      <link>https://24sockproject.me/page/rules/</link>
       <pubDate>Mon, 04 Dec 2017 08:55:36 -0330</pubDate>
       
-      <guid>http://24sockproject.me/page/rules/</guid>
+      <guid>https://24sockproject.me/page/rules/</guid>
       <description>These are the rules that I&amp;rsquo;ve laid out for myself for the project so far. These are subject to change, but I suspect I&amp;rsquo;ll only make them more restrictive, not less.
  All socks need to be sized for an adult foot (baby and child socks do not count). All socks must be started and completed in the project timeframe. For a sock to be &amp;ldquo;completed&amp;rdquo; it needs to be bound off with all ends woven in.</description>
     </item>
