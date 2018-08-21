@@ -1,4 +1,4 @@
-baseURL = "http://24sockproject.me/"
+baseURL = "https://24sockproject.me/"
 languageCode = "en-ca"
 title = "The 24 Sock Project"
 theme = "hugo-initio"
