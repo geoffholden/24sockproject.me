@@ -13,11 +13,12 @@ I did toe-up for these socks, because I didn't have any other cotton to do a hee
 
 ![Photo](/post/cotton_socks/Cotton_Socks.jpg) Finished socks.
 
-| Sock Details |                                                                                                                                       |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Yarn         | [Regia Cotton Tutti Frutti Color](https://www.ravelry.com/yarns/library/schachenmayr-regia-cotton-tutti-frutti-color), Kiwi colourway |
-| Pattern      | [Mina's Vanilla Sock Recipe](https://www.ravelry.com/patterns/library/minas-vanilla-sock-recipe), with high-instep option             |
-| Size         | 64 stitch                                                                                                                             |
-| Ribbing      | 2×2 ribbing for 16 rounds (1 1/4")                                                                                                    |
-| Leg Length   | 72 rounds (5") (not including ribbing)                                                                                                |
-| Foot Length  | 96 rounds (7") (not including toe)                                                                                                    |
+| Sock Details   |                                                                                                                                       |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Yarn           | [Regia Cotton Tutti Frutti Color](https://www.ravelry.com/yarns/library/schachenmayr-regia-cotton-tutti-frutti-color), Kiwi colourway |
+| Pattern (main) | [Vanilla Latte Socks](https://www.ravelry.com/patterns/library/vanilla-latte-socks)                                                   |
+| Pattern (heel) | [Mina's Vanilla Sock Recipe](https://www.ravelry.com/patterns/library/minas-vanilla-sock-recipe), with high-instep option             |
+| Size           | 64 stitch                                                                                                                             |
+| Ribbing        | 2×2 ribbing for 16 rounds (1 1/4")                                                                                                    |
+| Leg Length     | 72 rounds (5") (not including ribbing)                                                                                                |
+| Foot Length    | 96 rounds (7") (not including toe)                                                                                                    |

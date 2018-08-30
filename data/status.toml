@@ -1,4 +1,4 @@
-complete = "16/24"
+complete = "18/24"
 
 [socks]
 [socks.1]
@@ -40,6 +40,11 @@ link = "/post/cinnamon/"
 name = "Cotton Socks"
 date = "Aug 1, 2018"
 link = "/post/cotton_socks/"
+
+[socks.9]
+name = "Owl Socks"
+date = "Aug 30, 2018"
+link = "/post/owl/"
 
 # [socks.10]
 # name = "Test 10"
