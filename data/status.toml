@@ -1,50 +1,55 @@
-complete = "18/24"
+complete = "20/24"
 
 [socks]
-[socks.1]
+[socks.01]
 name = "Basket Rib Socks"
 date = "Jan 14, 2018"
 link = "/post/basket_rib_socks/"
 
-[socks.2]
+[socks.02]
 name = "Green/Yellow Socks"
 date = "Jan 28, 2018"
 link = "/post/green_yellow_socks/"
 
-[socks.3]
+[socks.03]
 name = "Alpaca Gingham Socks"
 date = "Feb 11, 2018"
 link = "/post/alpaca_gingham_socks/"
 
-[socks.4]
+[socks.04]
 name = "Vanilla is the New Black"
 date = "Feb 27, 2018"
 link = "/post/vanilla_new_black/"
 
-[socks.5]
+[socks.05]
 name = "Pennants"
 date = "Mar 28, 2018"
 link = "/post/pennants/"
 
-[socks.6]
+[socks.06]
 name = "Van Gogh's Blue Jay"
 date = "Apr 11, 2018"
 link = "/post/blue_jay/"
 
-[socks.7]
+[socks.07]
 name = "Cinnamon"
 date = "Jun 28, 2018"
 link = "/post/cinnamon/"
 
-[socks.8]
+[socks.08]
 name = "Cotton Socks"
 date = "Aug 1, 2018"
 link = "/post/cotton_socks/"
 
-[socks.9]
+[socks.09]
 name = "Owl Socks"
 date = "Aug 30, 2018"
 link = "/post/owl/"
+
+[socks.10]
+name = "Moss Rib"
+date = "Oct 2, 2018"
+link = "/post/moss_rib/"
 
 # [socks.10]
 # name = "Test 10"
