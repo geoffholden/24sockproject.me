@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://24sockproject.me/post/blue_tit/</loc>
+    <lastmod>2018-10-13T20:01:59-02:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://24sockproject.me/post/moss_rib/</loc>
     <lastmod>2018-10-02T21:04:59-02:30</lastmod>
   </url>
@@ -95,7 +100,7 @@
   
   <url>
     <loc>https://24sockproject.me/post/</loc>
-    <lastmod>2018-10-02T21:04:59-02:30</lastmod>
+    <lastmod>2018-10-13T20:01:59-02:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +111,7 @@
   
   <url>
     <loc>https://24sockproject.me/</loc>
-    <lastmod>2018-10-02T21:04:59-02:30</lastmod>
+    <lastmod>2018-10-13T20:01:59-02:30</lastmod>
     <priority>0</priority>
   </url>
   
