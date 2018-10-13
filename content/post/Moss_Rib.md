@@ -1,5 +1,5 @@
 ---
-title: "Owl Socks"
+title: "Moss Rib Socks"
 date: 2018-10-02T21:04:59-02:30
 draft: false
 Comments: true
